@@ -1,0 +1,23 @@
+body{
+    background-color: #F0F8FF	;
+}
+#score{
+    margin-left:10px;
+    font-size: 25px;
+    float:left;
+    font-family: 'Times New Roman', Times, serif;
+}
+#time{
+    margin-right:10px;
+    font-size: 25px;
+    float:right;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+#sketch {
+    color: #DB2D43;
+    font-size: 20px;
+    font-weight:500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
